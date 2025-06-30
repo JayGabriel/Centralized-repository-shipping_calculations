@@ -1,6 +1,3 @@
- # Here is a new update by Jay Gabriel
-
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
